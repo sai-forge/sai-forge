@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sai Forge  
+# 👋 Hi, I’m George 
 **AI & Data Scientist | Machine Learning Researcher**  
 I build scalable ML pipelines that drive real time insights and automation across business workflows.
 
